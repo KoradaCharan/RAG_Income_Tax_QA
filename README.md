@@ -136,6 +136,7 @@ print(f"Answer: {answer}")
 
 ## Sample Output
 Question: What are the general provisions mentioned in the Act?
+
 Answer: 1. The provisions relating to the levy and collection of tax.
 2. The provisions relating to the assessment and collection of tax.
 3. The provisions relating to the determination of taxable income.
